@@ -1,4 +1,4 @@
-# Use an official Python runtime as a parent image
+# Use an official Python runtime as a parent image version
 FROM python:3.10.0
 
 # Set the working directory in the container to /app
